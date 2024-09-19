@@ -1,8 +1,8 @@
-# Hello guest, I'm Alexander Talavera 👋
+# Hello guest, I'm Alexander Talavera - Software Engineer 👋
 
-## About me 👨‍💻
+## About me 👨‍💻 - English(B2) - Spanish(Native)
 
-- 👨‍🎓 Computer Engineer 🧑‍🎓
+- 👨‍🎓 I studied in the university Computer Engineer 🧑‍🎓
 - 🧑‍🏫 I'm teacher on my free time to teach other to learn programming
 - 🆕 I love to learn about new technologies 🎈
 
@@ -26,12 +26,10 @@
 
 ## Experience
 
-- Working at: <a href="https://www.applydigital.com/"><img src="https://img.shields.io/static/v1?&label=&message=Apply%20Digital&color=blue&logo=goldenline&logoColor=white" /></a>
+- Working at: <a href="https://www.applydigital.com/">Apply Digital</a>
+- Worked at: <a href="https://www.mediastream.co/">Mediastream</a>, <a href="http://snip.gob.ni/">SNIP</a>, <a href="https://www.uni.edu.ni/">UNI</a>
 - 🔬 Have played around with: <br/>
 [![](https://skillicons.dev/icons?i=aws,mysql,gcp,cs)](https://skillicons.dev)
-
-- 🔧 Using the following code tools: <br/>
-[![](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 ## 🎓 My Courses on Udemy
 
