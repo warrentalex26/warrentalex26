@@ -13,9 +13,7 @@
 ## Experience
 
 - Working at: <a href="https://www.applydigital.com/">Apply Digital</a> - <span>Software Engineer</span>
-- Worked at:
-
-<a href="#">Byron Networks, S.L</a> - <span>Frontend Engineer</span>
+- Worked at: <a href="#">Byron Networks, S.L</a> - <span>Frontend Engineer</span>
 <br>
 <a href="https://www.mediastream.co/">Mediastream</a> - <span>Full stack developer</span>
 <br>
