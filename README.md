@@ -10,26 +10,18 @@
 
 <a href="https://linkedin.com/in/warrentalex26" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 
-## Technologies ⚙️
-
-### Languages 📚
-
-[![](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-### Tools & Frameworks 🛠️
-
-[![](https://skillicons.dev/icons?i=react,angular,sass,bootstrap,tailwind,nodejs,nextjs,git,github,bitbucket,vscode,ps)](https://skillicons.dev)
-
-### Databases 💾
-
-[![](https://skillicons.dev/icons?i=postgres,mongo)](https://skillicons.dev)
-
 ## Experience
 
-- Working at: <a href="https://www.applydigital.com/">Apply Digital</a>
-- Worked at: <a href="https://www.mediastream.co/">Mediastream</a>, <a href="http://snip.gob.ni/">SNIP</a>, <a href="https://www.uni.edu.ni/">UNI</a>
-- 🔬 Have played around with: <br/>
-[![](https://skillicons.dev/icons?i=aws,mysql,gcp,cs)](https://skillicons.dev)
+- Working at: <a href="https://www.applydigital.com/">Apply Digital</a> - <span>Software Engineer</span>
+- Worked at:
+<br>
+<a href="#">Byron Networks, S.L</a> - <span>Frontend Engineer</span>
+<br>
+<a href="https://www.mediastream.co/">Mediastream</a> - <span>Full stack developer</span>
+<br>
+<a href="http://snip.gob.ni/">SNIP</a> - <span>Software Engineer</span>
+<br>
+<a href="https://www.uni.edu.ni/">UNI</a> - <span>Software Engineer</span>
 
 ## 🎓 My Courses on Udemy
 
